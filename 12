@@ -12,7 +12,7 @@ repeat
     makefolder("serotonin.prod")
  end
  
- local menu = game:GetObjects("rbxassetid://17784010235")[1] 
+ local menu = game:GetObjects("rbxassetid://17831641147")[1] 
  local tabholder = menu.bg.bg.bg.bg.bg.bg.main.group;
  local tabviewer = menu.bg.bg.bg.bg.bg.bg.tabbuttons;
  
